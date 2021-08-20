@@ -1,7 +1,18 @@
-### Prazer sou o Erick 👋
+### Oii, prazer sou o Erick, seu novo Guia nessa viajem virtual! 👋
 
+### Sobre minha vida pessoal que deixo publico!
+ - Estudo programaçao a 4 anos.
+ - Estudo fisica quantica e astronomia
+ - Sei falar 5 linguas diferentes, seja elas: espanhol,alemao,russo,latino,ingles
+
+
+ ### Sobre o nosso perfil de aprendizagem!
+ - Nesse perfil se encontrara de tudo!
+ - Templates dos codigos criados em vide.
+ - Scripts criados para uso pessoal.
+ - Codigos recriados.
+ - -Aplicativos antigos remasterizados.
 ##
-
  <div>
   <a href="https://github.com/ErickInvation">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickInvation&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
