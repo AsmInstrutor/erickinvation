@@ -1,3 +1,3 @@
-### Hi there 👋
+### Ola queridos usuarios 👋
 
-![midnight-purple](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![midnight-purple](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=midnight-purple)
