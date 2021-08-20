@@ -11,7 +11,7 @@
  - Templates dos codigos criados em vide.
  - Scripts criados para uso pessoal.
  - Codigos recriados.
- - -Aplicativos antigos remasterizados.
+ - Aplicativos antigos remasterizados.
 ##
  <div>
   <a href="https://github.com/ErickInvation">
