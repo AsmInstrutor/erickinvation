@@ -9,8 +9,8 @@
  ### Sobre o nosso perfil de aprendizagem!
  - Nesse perfil se encontrara de tudo!
  - Templates dos codigos criados em video.
- - Scripts criados para uso pessoal.
- - Codigos recriados.
+ - Scripts criados para jogos ou programas.
+ - Codigos antigos reacriados.
  - Aplicativos antigos remasterizados.
 ##
  <div>
